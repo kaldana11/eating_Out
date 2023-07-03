@@ -64,7 +64,8 @@ basicC + geom_bar(stat="identity",position="dodge")
 basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=eatout)) 
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
-  (explantion here)
+ 
+ These plots provide visual insights into the distribution of observations across different race and eat out categories, allowing for easy comparison between the counts and percentages within each race category. After intensive observation from reading the bar graphs, we can conclude that white people tend to eat out more than black people altogether.
   
   
   
