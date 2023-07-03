@@ -46,7 +46,8 @@ barchartGC(~race + eatout,data=mydata, type="percent")
 
 ```
 
-This bargraph shows us..
+This bar graph shows us that percentage wise, there was not much difference in eating out from black and the other races. Both charts provide a visual representation of the distribution of observations across different "race" and "eat out" categories. The first chart shows the count of observations, while the second chart displays the relative proportions as percentages. These charts allow for easy comparison between different category combinations within each "race" group.
+We are also able to see that white people are eating out more than any other races.
 
 
 
