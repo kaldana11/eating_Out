@@ -40,9 +40,6 @@ mydata <- na.omit(mydata)
 ```
 
 
-
-
-
 ```{r}
 barchartGC(~race + eatout,data=mydata)
 barchartGC(~race + eatout,data=mydata, type="percent")
@@ -77,7 +74,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-
+These numerical results show us the percentages of people eating out. It shows us that 83.11% of whites eat out while 16.89% do not. It shows us that 69.04% of the black people that were in the experiment ate out while 39.76% did not. Then it states that 72.12% of other races ate out while 27.88% did not. In general, it shows us that the people eating are white which is the majority victor of this experiment.
 
 
 
