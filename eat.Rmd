@@ -88,9 +88,9 @@ In the third test ("black" vs. "other"), the p-value is 0.5993, which is greater
 
 
 
+#Conclusion
 
-
-
+ We had a lot of trouble with this project. We had to figure out how to get warning out of the knitted results. We learned to work with fisher xy and get variable from the GSS/Norc. We also ran a pearson chi-squared test. Based on the analysis conducted on the GSS dataset, it is evident that there is a significant difference in the frequency of eating out among different races. The bar graphs and numerical results consistently demonstrate that white individuals tend to eat out more frequently compared to black individuals and those from other races. The Fisher's exact tests further support these findings, revealing a statistically significant difference between white and black individuals, as well as between white and other races. Overall, the results highlights white individuals showing a higher propensity for dining out.
 
 
 
